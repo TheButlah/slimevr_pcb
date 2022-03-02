@@ -29,3 +29,6 @@ fp-info-cache
 
 # Local setting files
 *.kicad_prl
+
+# Gerbers
+/hardware/breakout_slime/gerbers/
