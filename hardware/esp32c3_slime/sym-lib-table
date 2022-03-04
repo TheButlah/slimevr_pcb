@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name "Rust_Board")(type "KiCad")(uri "${KIPRJMOD}/../libs/Rust_Board/Rust_Board.kicad_sym")(options "")(descr ""))
-  (lib (name "slimevr_pcb")(type "KiCad")(uri "${KIPRJMOD}/../libs/slimevr_pcb.kicad_sym")(options "")(descr ""))
-)
