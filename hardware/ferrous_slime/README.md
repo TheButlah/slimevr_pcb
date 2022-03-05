@@ -11,7 +11,7 @@ with different IMU options.
 a reference or starting point, but please don't expect it to work yet ;)
 
 ## Renders
-![Schematic](renders/schematic.svg)
+![Schematic](schematic/ferrous_slime.svg)
 
 ## IMU Compatibility
 This board was designed to work with the following IMU breakouts. Not all have

@@ -7,4 +7,4 @@ protoboard.
 a reference or starting point, but please don't expect it to work yet ;)
 
 ## Renders
-![Schematic](renders/schematic.svg)
+![Schematic](schematic/breakout_slime.svg)
