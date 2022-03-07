@@ -24,8 +24,8 @@ fp-info-cache
 *.ses
 
 # Exported BOM files
-*.xml
-*.csv
+/hardware/**/bom/*.xml
+/hardware/**/bom/*.csv
 
 # Local setting files
 *.kicad_prl
