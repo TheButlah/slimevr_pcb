@@ -4657,7 +4657,7 @@
     (property "Reference" "C7" (id 0) (at 130.81 48.26 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "10u" (id 1) (at 130.0118 50.4264 0)
+    (property "Value" "10uF" (id 1) (at 130.0118 50.4264 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 135.89 49.53 0)
@@ -5484,7 +5484,7 @@
     (property "Reference" "C9" (id 0) (at 154.6767 49.9323 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "10u" (id 1) (at 153.6126 51.6806 0)
+    (property "Value" "10uF" (id 1) (at 153.6126 51.6806 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 158.75 48.26 0)
@@ -5732,13 +5732,13 @@
       (reference "C6") (unit 1) (value "DNP") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/08cfdadd-3136-4a95-9851-cb9ac660ddb9"
-      (reference "C7") (unit 1) (value "10u") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C7") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-0000623813bf"
       (reference "C8") (unit 1) (value "DNP") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/f45f95a2-60b3-44cc-9210-f82745a046c6"
-      (reference "C9") (unit 1) (value "10u") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C9") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/15ebd1cd-0903-439e-92b7-4f09b8973a3b"
       (reference "C10") (unit 1) (value "470nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
