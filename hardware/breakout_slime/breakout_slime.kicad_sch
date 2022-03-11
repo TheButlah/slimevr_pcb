@@ -6,8 +6,8 @@
 
   (title_block
     (title "breakout_slime")
-    (date "2022-02-27")
-    (rev "0.1")
+    (date "2022-03-10")
+    (rev "0.1.1")
     (company "https://github.com/TheButlah/slimevr_pcb")
     (comment 1 "Licensed under CERN-OHL-P v2 or later")
     (comment 2 "For use with SlimeVR and made with <3")
@@ -752,7 +752,7 @@
   )
 
   (no_connect (at 184.15 73.66) (uuid 0fda3e0e-18f2-4998-9ee9-e9ae28425d2f))
-  (no_connect (at 184.15 78.74) (uuid 0fda3e0e-18f2-4998-9ee9-e9ae28425d2f))
+  (no_connect (at 184.15 78.74) (uuid 0fda3e0e-18f2-4998-9ee9-e9ae28425d30))
   (no_connect (at 143.51 40.64) (uuid 1273ed5a-6a9e-45fa-8137-0f7e9093fe5e))
   (no_connect (at 64.77 69.85) (uuid 1ed7f309-98e7-487e-80e7-37f90e9d4fc4))
   (no_connect (at 123.19 50.8) (uuid 83e59483-cb52-4ec8-b795-8116105bc9e4))
