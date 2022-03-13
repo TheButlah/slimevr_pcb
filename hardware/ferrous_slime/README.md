@@ -43,3 +43,6 @@ over the ESP8266:
 - Sleep modes consume *significantly* less power
 - New peripherals like security modules
 - GPIO is more fully featured, and has more pins
+
+## Changelog
+A description of the changes in each revision can be found [here](CHANGELOG.md).
