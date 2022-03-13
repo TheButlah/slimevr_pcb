@@ -7,6 +7,8 @@ protoboard.
 You may use it as a reference or starting point, but use it at your own risk ;)
 
 ## Renders
+![Front](renders/front.png)
+![Back](renders/back.png)
 ![Schematic](schematic/breakout_slime.svg)
 
 ## Changelog

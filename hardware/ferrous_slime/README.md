@@ -11,6 +11,8 @@ with different IMU options.
 a reference or starting point, but please don't expect it to work yet ;)
 
 ## Renders
+![Front](renders/front.png)
+![Back](renders/back.png)
 ![Schematic](schematic/ferrous_slime.svg)
 
 ## IMU Compatibility
@@ -43,6 +45,9 @@ over the ESP8266:
 - Sleep modes consume *significantly* less power
 - New peripherals like security modules
 - GPIO is more fully featured, and has more pins
+
+For more info, [this](https://hackaday.com/2021/02/08/hands-on-the-risc-v-esp32-c3-will-be-your-new-esp8266/)
+was a good article.
 
 ## Changelog
 A description of the changes in each revision can be found [here](CHANGELOG.md).

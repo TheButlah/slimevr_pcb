@@ -330,26 +330,26 @@
     (pad "16" thru_hole oval (at 22.86 0) (size 2 1.6) (drill 1) (layers *.Cu *.Mask)
       (net 22 "unconnected-(U2-Pad16)") (pinfunction "TX") (pintype "output+no_connect") (tstamp 602456b9-8523-4c64-bf83-25edff0e0446))
     (model "${KICAD6_3DMODEL_DIR}/Module.3dshapes/WEMOS_D1_mini_light.wrl"
-      (offset (xyz 0 0 0))
+      (offset (xyz 0 0 -6.985))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
     (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x08_P2.54mm_Vertical.wrl"
-      (offset (xyz 0 0 9.5))
+      (offset (xyz 0 0 2.514999999))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
     )
     (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x08_P2.54mm_Vertical.wrl"
-      (offset (xyz 22.86 0 9.5))
+      (offset (xyz 22.86 0 2.514999999))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
     )
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x08_P2.54mm_Vertical.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x08_P2.54mm_Vertical.wrl" hide
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x08_P2.54mm_Vertical.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x08_P2.54mm_Vertical.wrl" hide
       (offset (xyz 22.86 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -694,7 +694,7 @@
 
   (footprint "Button_Switch_THT:SW_CuK_OS102011MA1QN1_SPDT_Angled" (layer "B.Cu")
     (tedit 5A02FE31) (tstamp e612d363-da89-4e8b-a043-1531648d6460)
-    (at 56.75052 60.81452 180)
+    (at 56.750509 60.814509 180)
     (descr "CuK miniature slide switch, OS series, SPDT, right angle, http://www.ckswitches.com/media/1428/os.pdf")
     (tags "switch SPDT")
     (property "Sheetfile" "breakout_slime.kicad_sch")
@@ -738,6 +738,11 @@
     (model "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_CuK_OS102011MA1QN1_SPDT_Angled.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+    (model "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_E-Switch_EG1224_SPDT_Angled.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 0.5 0.5 0.5))
       (rotate (xyz 0 0 0))
     )
   )
