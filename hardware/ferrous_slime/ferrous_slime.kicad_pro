@@ -420,6 +420,7 @@
           "+3V3",
           "+5V",
           "+BATT",
+          "B_SENSE",
           "GND",
           "VBUS"
         ],
