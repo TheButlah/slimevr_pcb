@@ -1,4 +1,3 @@
 (fp_lib_table
-  (lib (name "Rust_Board")(type "KiCad")(uri "${KIPRJMOD}/../libs/Rust_Board/Rust_Board.pretty")(options "")(descr ""))
-  (lib (name "slimevr_pcb")(type "KiCad")(uri "D:/Ryan/PCB/Projects/slimevr_pcb/hardware/libs/slimevr_pcb.pretty")(options "")(descr ""))
+  (lib (name "slimevr_pcb")(type "KiCad")(uri "D:/Ryan/PCB/Projects/slimevr_pcb/hardware/libs/slimevr_pcb/slimevr_pcb.pretty")(options "")(descr ""))
 )
