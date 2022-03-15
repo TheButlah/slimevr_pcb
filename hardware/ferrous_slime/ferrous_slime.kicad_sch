@@ -5587,7 +5587,7 @@
     (property "Reference" "JP3" (id 0) (at 49.53 154.94 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "MPU/BNO_INT1" (id 1) (at 39.37 161.29 90)
+    (property "Value" "BNO/MPU_INT1" (id 1) (at 39.37 161.29 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm" (id 2) (at 54.61 157.48 0)
@@ -5740,7 +5740,7 @@
     (in_bom yes) (on_board yes)
     (uuid c4529189-45d4-4fb2-a639-86f5fb6b04c1)
     (property "Reference" "JP1" (id 0) (at 29.21 140.97 0))
-    (property "Value" "MPU/ICM_AD0" (id 1) (at 22.86 143.51 0))
+    (property "Value" "ICM/MPU_AD0" (id 1) (at 22.86 143.51 0))
     (property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm" (id 2) (at 31.75 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -6232,13 +6232,13 @@
       (reference "J4") (unit 1) (value "Unused_IO") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical")
     )
     (path "/c4529189-45d4-4fb2-a639-86f5fb6b04c1"
-      (reference "JP1") (unit 1) (value "MPU/ICM_AD0") (footprint "Jumper:SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm")
+      (reference "JP1") (unit 1) (value "ICM/MPU_AD0") (footprint "Jumper:SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm")
     )
     (path "/3376fce4-7c2a-4830-8668-5c55f20711b2"
       (reference "JP2") (unit 1) (value "INT_ICM/ADO_BNO") (footprint "Jumper:SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm")
     )
     (path "/9b1a0ddc-2815-4f35-824b-9e81fbeabbd5"
-      (reference "JP3") (unit 1) (value "MPU/BNO_INT1") (footprint "Jumper:SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm")
+      (reference "JP3") (unit 1) (value "BNO/MPU_INT1") (footprint "Jumper:SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm")
     )
     (path "/32aeb981-ffe8-4bff-a65d-ee3788161f8a"
       (reference "L1") (unit 1) (value "2.2uH") (footprint "Inductor_SMD:L_7.3x7.3_H4.5")
