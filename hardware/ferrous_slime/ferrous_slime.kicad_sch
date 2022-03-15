@@ -4988,7 +4988,7 @@
     (property "Value" "Unused_IO" (id 1) (at 149.86 154.9399 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical" (id 2) (at 147.32 153.67 0)
+    (property "Footprint" "slimevr_pcb:IO_Breakouts" (id 2) (at 147.32 153.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 147.32 153.67 0)
@@ -6229,7 +6229,7 @@
       (reference "J3") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "Connector_USB:USB_C_Receptacle_XKB_U262-16XN-4BVC11")
     )
     (path "/07ba3b11-b85a-4d64-9bdc-e0f731b1e86f"
-      (reference "J4") (unit 1) (value "Unused_IO") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical")
+      (reference "J4") (unit 1) (value "Unused_IO") (footprint "slimevr_pcb:IO_Breakouts")
     )
     (path "/c4529189-45d4-4fb2-a639-86f5fb6b04c1"
       (reference "JP1") (unit 1) (value "ICM/MPU_AD0") (footprint "Jumper:SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm")
