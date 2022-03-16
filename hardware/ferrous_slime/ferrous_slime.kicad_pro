@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.0,
-          "height": 1.7,
-          "width": 1.7
+          "drill": 0.0,
+          "height": 0.7,
+          "width": 0.5
         },
         "silk_line_width": 0.15239999999999998,
         "silk_text_italic": false,
@@ -422,6 +422,7 @@
           "+BATT",
           "B_SENSE",
           "GND",
+          "Net-(L1-Pad1)",
           "VBUS"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
