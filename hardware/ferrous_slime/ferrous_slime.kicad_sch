@@ -4745,13 +4745,13 @@
   (symbol (lib_id "Device:D_TVS") (at 19.05 91.44 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000062637b6c)
-    (property "Reference" "D1" (id 0) (at 15.24 91.44 90)
+    (property "Reference" "D1" (id 0) (at 19.05 87.63 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "LESD8D3.3CAT5G" (id 1) (at 22.86 85.09 0)
+    (property "Value" "LESD8D3.3CAT5G" (id 1) (at 16.51 83.82 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering" (id 2) (at 19.05 91.44 0)
+    (property "Footprint" "slimevr_pcb:SOD882" (id 2) (at 16.51 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 19.05 91.44 0)
@@ -4883,7 +4883,7 @@
     (property "Reference" "R4" (id 0) (at 156.6672 100.4316 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "100kR 1%" (id 1) (at 156.6672 102.743 0)
+    (property "Value" "120K" (id 1) (at 156.6672 102.743 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 154.94 101.6 0)
@@ -5211,7 +5211,7 @@
     (uuid 32aeb981-ffe8-4bff-a65d-ee3788161f8a)
     (property "Reference" "L1" (id 0) (at 240.03 21.59 90))
     (property "Value" "2.2uH" (id 1) (at 240.03 24.13 90))
-    (property "Footprint" "Inductor_SMD:L_7.3x7.3_H4.5" (id 2) (at 240.03 26.67 0)
+    (property "Footprint" "Inductor_SMD:L_Wuerth_MAPI-3015" (id 2) (at 240.03 26.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 240.03 26.67 0)
@@ -6194,7 +6194,7 @@
       (reference "C12") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-000062637b6c"
-      (reference "D1") (unit 1) (value "LESD8D3.3CAT5G") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "D1") (unit 1) (value "LESD8D3.3CAT5G") (footprint "slimevr_pcb:SOD882")
     )
     (path "/00000000-0000-0000-0000-0000628c7e1d"
       (reference "D2") (unit 1) (value "B5819W") (footprint "Diode_SMD:D_SOD-123")
@@ -6242,7 +6242,7 @@
       (reference "JP3") (unit 1) (value "BNO/MPU_INT1") (footprint "Jumper:SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm")
     )
     (path "/32aeb981-ffe8-4bff-a65d-ee3788161f8a"
-      (reference "L1") (unit 1) (value "2.2uH") (footprint "Inductor_SMD:L_7.3x7.3_H4.5")
+      (reference "L1") (unit 1) (value "2.2uH") (footprint "Inductor_SMD:L_Wuerth_MAPI-3015")
     )
     (path "/00000000-0000-0000-0000-0000628bb66a"
       (reference "Q1") (unit 1) (value "CJ2305") (footprint "Package_TO_SOT_SMD:SOT-23")
@@ -6257,7 +6257,7 @@
       (reference "R3") (unit 1) (value "DNP") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-0000628ca495"
-      (reference "R4") (unit 1) (value "100kR 1%") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R4") (unit 1) (value "120K") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/1f6b4457-3275-408a-a5cc-c61e0857c7ff"
       (reference "R5") (unit 1) (value "1K") (footprint "Resistor_SMD:R_0603_1608Metric")
