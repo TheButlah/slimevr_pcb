@@ -4832,7 +4832,7 @@
     (property "Reference" "Q1" (id 0) (at 175.3616 86.4616 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "DMG3415U" (id 1) (at 175.3616 88.773 0)
+    (property "Value" "CJ2305" (id 1) (at 175.3616 88.773 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Package_TO_SOT_SMD:SOT-23" (id 2) (at 175.26 89.535 0)
@@ -6245,7 +6245,7 @@
       (reference "L1") (unit 1) (value "2.2uH") (footprint "Inductor_SMD:L_7.3x7.3_H4.5")
     )
     (path "/00000000-0000-0000-0000-0000628bb66a"
-      (reference "Q1") (unit 1) (value "DMG3415U") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "Q1") (unit 1) (value "CJ2305") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/00000000-0000-0000-0000-000061cdb32a"
       (reference "R1") (unit 1) (value "10kR 1%") (footprint "Resistor_SMD:R_0603_1608Metric")
