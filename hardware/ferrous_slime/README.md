@@ -14,6 +14,7 @@ a reference or starting point, but please don't expect it to work yet ;)
 ![Front](renders/front.png)
 ![Back](renders/back.png)
 ![Schematic](schematic/ferrous_slime.svg)
+![PCB](renders/pcb.png)
 
 ## IMU Compatibility
 This board was designed to work with the following IMU breakouts. Not all have
