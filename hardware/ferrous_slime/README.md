@@ -39,7 +39,7 @@ Secondly, the ESP32-C3 is similar in features to the ESP32 series of chips, but 
 the ESP8266, it is very cheap, making it a great choice. A few of the features it has
 over the ESP8266:
 - Bluetooth LE v5.0 (even ESP32 only has v4.2)
-- Faster WiFi
+- Stronger WiFi signal at a lower power usage than the ESP8266
 - More RAM (400KiB vs 160)
 - Built-in USB-serial and USB-JTAG support eliminates need for USB-UART chip
 - JTAG debugging
