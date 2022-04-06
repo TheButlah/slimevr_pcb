@@ -7,7 +7,7 @@
   (title_block
     (title "ferrous_slime")
     (date "2022-03-15")
-    (rev "v0.0.1")
+    (rev "v0.1.0")
     (company "github.com/thebutlah/slimevr_pcb")
     (comment 1 "Licensed under CERN-OHL-P v2 or later")
     (comment 2 "For use with SlimeVR and made with <3")
@@ -3212,7 +3212,7 @@
     (uuid ff2f00dc-dff2-4a19-af27-f5c793a8d261)
   )
 
-  (image (at 272.1595 173.7895) (scale 0.235399)
+  (image (at 272.1595 173.7895) (scale 0.221118)
     (uuid 4f76d49e-9f7f-4439-b991-6982d148104a)
     (data
       iVBORw0KGgoAAAANSUhEUgAABLAAAAMgCAYAAAAz4JsCAAAABHNCSVQICAgIfAhkiAAAIABJREFU
