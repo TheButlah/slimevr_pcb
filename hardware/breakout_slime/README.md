@@ -14,3 +14,6 @@ You may use it as a reference or starting point, but use it at your own risk ;)
 
 ## Changelog
 A description of the changes in each revision can be found [here](CHANGELOG.md).
+
+## How to order
+You can place a jlcpcb order by uploading the [zip file](jlcpcb\gerber\GERBER-breakout_slime.zip) for the gerbers. Take that zip file and upload to https://jlcpcb.com.
