@@ -383,7 +383,9 @@
           "+5V",
           "B+",
           "GND",
-          "Net-(D1-Pad2)"
+          "Net-(D1-Pad2)",
+          "Net-(D2-Pad2)",
+          "Net-(SW1-Pad3)"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",

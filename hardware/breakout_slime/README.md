@@ -10,6 +10,7 @@ You may use it as a reference or starting point, but use it at your own risk ;)
 ![Front](renders/front.png)
 ![Back](renders/back.png)
 ![Schematic](schematic/breakout_slime.svg)
+![PCB](renders/pcb.png)
 
 ## Changelog
 A description of the changes in each revision can be found [here](CHANGELOG.md).
