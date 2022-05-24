@@ -27,7 +27,7 @@ Note that as part of the CERN-OHL-P v2 license, recipients of manufactured
 hardware must also receive notice of the above license. One such
 method of conveying the notice is to include a link to the original source repo,
 or printing "Licensed under CERN-OHL-P v2" on the PCB silkscreen. For more info,
-see [here](https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2).
+see [here](https://ohwr.org/project/cernohl/wikis/uploads/8a6b5d01f71c207c49493e4d114d61e6/cern_ohl_p_v2_howto.pdf).
 
 This is conceptually similar to the MIT/Apache 2.0 Licenses, where the original
 license must still be included as a notice even when the source is modified and
