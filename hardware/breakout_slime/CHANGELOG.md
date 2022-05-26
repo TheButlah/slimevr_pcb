@@ -29,3 +29,8 @@
 - Assigned the rest of the power nets to the power netclass.
 - Redid the old nets to use the thicker power netclass thickness.
 - Now using same switch 3d model as `ferrous_slime`.
+
+## v0.1.4
+- Moved Power switch and IMU Connector further apart to decrease the likelihood of
+  collision with a D1 mini's USB connector, if that D1 mini has the connector on the
+  underside of its board.
