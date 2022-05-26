@@ -23,12 +23,5 @@ fp-info-cache
 *.dsn
 *.ses
 
-# Exported BOM files
-/hardware/**/bom/*.xml
-/hardware/**/bom/*.csv
-
 # Local setting files
 *.kicad_prl
-
-# Gerbers
-/hardware/breakout_slime/gerbers/

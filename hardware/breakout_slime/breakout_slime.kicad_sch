@@ -6,8 +6,8 @@
 
   (title_block
     (title "breakout_slime")
-    (date "2022-04-13")
-    (rev "0.1.3")
+    (date "2022-05-25")
+    (rev "0.1.4")
     (company "https://github.com/TheButlah/slimevr_pcb")
     (comment 1 "Licensed under CERN-OHL-P v2 or later")
     (comment 2 "For use with SlimeVR and made with <3")
