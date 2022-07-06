@@ -11,6 +11,7 @@ Also, use it at your own risk. I've tested it, but I accept no responsibility fo
 ![Back](renders/back.png)
 ![Schematic](schematic/breakout_slime.svg)
 ![PCB](renders/pcb.png)
+![Case](renders/case.png)
 
 ## Changelog
 A description of the changes in each revision can be found [here](CHANGELOG.md).
