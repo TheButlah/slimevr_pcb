@@ -34,3 +34,6 @@
 - Moved Power switch and IMU Connector further apart to decrease the likelihood of
   collision with a D1 mini's USB connector, if that D1 mini has the connector on the
   underside of its board.
+
+## v0.1.5
+- Added Case by @TomYumVR
