@@ -1,0 +1,9 @@
+Designator,Mid X,Mid Y,Layer,Rotation
+C1,92.05mm,72.4mm,top,-90
+C2,94.05mm,72.4mm,top,-90
+C3,96.05mm,64.4mm,top,90
+C4,96.05mm,72.4mm,top,-90
+C5,92.05mm,57.4mm,top,90
+IMU1,93.05mm,64.4mm,top,0
+U1,96.05mm,68.4mm,top,0
+U2,95.2mm,57.4mm,top,180
