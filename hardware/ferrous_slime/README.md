@@ -7,9 +7,6 @@ all respects than its predecessors.
 The IMU is still a breakout board to better allow the community to experiment
 with different IMU options.
 
-**NOTE: This board is not yet finished, and has not been tested.** You may use it as
-a reference or starting point, but please don't expect it to work yet ;)
-
 ## Renders
 ![Front](renders/front.png)
 ![Back](renders/back.png)
