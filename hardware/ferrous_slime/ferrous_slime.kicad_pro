@@ -378,8 +378,8 @@
   },
   "libraries": {
     "pinned_footprint_libs": [
-      "Espressif",
-      "slimevr_pcb"
+      "slimevr_pcb",
+      "Espressif"
     ],
     "pinned_symbol_libs": []
   },
