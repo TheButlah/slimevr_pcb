@@ -6,7 +6,7 @@
 
   (title_block
     (title "ferrous_slime")
-    (date "2022-03-15")
+    (date "2022-10-11")
     (rev "v0.2.0")
     (company "github.com/thebutlah/slimevr_pcb")
     (comment 1 "Licensed under CERN-OHL-P v2 or later")
@@ -4592,7 +4592,7 @@
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000061fd2211)
     (property "Reference" "D5" (id 0) (at 185.42 121.92 0))
-    (property "Value" "LED" (id 1) (at 193.04 123.19 0))
+    (property "Value" "LED_IO5" (id 1) (at 191.77 121.92 0))
     (property "Footprint" "LED_SMD:LED_0603_1608Metric" (id 2) (at 185.42 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5354,7 +5354,7 @@
     (property "Value" "VCC_GBIM" (id 1) (at 57.15 133.35 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 57.15 130.81 0)
+    (property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" (id 2) (at 57.15 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 57.15 130.81 0)
@@ -5400,7 +5400,7 @@
     (in_bom yes) (on_board yes)
     (uuid 54080e1b-7a3e-4f86-8476-a3d55de881ec)
     (property "Reference" "D4" (id 0) (at 175.5021 40.5984 0))
-    (property "Value" "LED_FULL" (id 1) (at 179.07 44.45 0))
+    (property "Value" "FULL" (id 1) (at 181.61 40.64 0))
     (property "Footprint" "LED_SMD:LED_0603_1608Metric" (id 2) (at 177.8 41.91 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5815,7 +5815,7 @@
     (in_bom yes) (on_board yes)
     (uuid bfab8950-194d-4203-9e99-e2292d8b3e2e)
     (property "Reference" "D3" (id 0) (at 175.5021 35.4571 0))
-    (property "Value" "LED_CHRG" (id 1) (at 182.88 34.29 0))
+    (property "Value" "CHRG" (id 1) (at 181.61 35.56 0))
     (property "Footprint" "LED_SMD:LED_0603_1608Metric" (id 2) (at 177.8 36.83 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -6305,13 +6305,13 @@
       (reference "D2") (unit 1) (value "B5819W") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/bfab8950-194d-4203-9e99-e2292d8b3e2e"
-      (reference "D3") (unit 1) (value "LED_CHRG") (footprint "LED_SMD:LED_0603_1608Metric")
+      (reference "D3") (unit 1) (value "CHRG") (footprint "LED_SMD:LED_0603_1608Metric")
     )
     (path "/54080e1b-7a3e-4f86-8476-a3d55de881ec"
-      (reference "D4") (unit 1) (value "LED_FULL") (footprint "LED_SMD:LED_0603_1608Metric")
+      (reference "D4") (unit 1) (value "FULL") (footprint "LED_SMD:LED_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-000061fd2211"
-      (reference "D5") (unit 1) (value "LED") (footprint "LED_SMD:LED_0603_1608Metric")
+      (reference "D5") (unit 1) (value "LED_IO5") (footprint "LED_SMD:LED_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-0000625f4ff4"
       (reference "D6") (unit 1) (value "LESD5D5.0CT1G") (footprint "Diode_SMD:D_SOD-523")
@@ -6347,7 +6347,7 @@
       (reference "JP3") (unit 1) (value "INT_GB/GM") (footprint "Jumper:SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm")
     )
     (path "/4b358e31-d2b1-4486-a811-6c8ba185f47e"
-      (reference "JP4") (unit 1) (value "VCC_GBIM") (footprint "")
+      (reference "JP4") (unit 1) (value "VCC_GBIM") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm")
     )
     (path "/32aeb981-ffe8-4bff-a65d-ee3788161f8a"
       (reference "L1") (unit 1) (value "2.2uH") (footprint "Inductor_SMD:L_Wuerth_MAPI-3015")
