@@ -7,19 +7,19 @@ all respects than its predecessors.
 The IMU is still a breakout board to better allow the community to experiment
 with different IMU options.
 
+## IMU Compatibility
+This board was designed to work with the following IMU breakouts, via solder
+jumpers that can reconfigure the board.
+- BNO08X (Aliexpress GY-BNO08X)
+- MPU-6050 (Aliexpress GY-521)
+- MPU-9250/6500 (Aliexpress GY-9250 and MPU-92/65)
+- ICM20948 3.3v (Aliexpress GY-912 and Pimoroni PIM448)
+
 ## Renders
 ![Front](renders/front.png)
 ![Back](renders/back.png)
 ![Schematic](schematic/ferrous_slime.svg)
 ![PCB](renders/pcb.png)
-
-## IMU Compatibility
-This board was designed to work with the following IMU breakouts. Not all have
-been tested, but there are solder jumpers that can reconfigure the board.
-- BNO08X
-- MPU-6050
-- MPU-9250/6500
-- ICM20948 (Assuming breakout is 3.3v *not* 1.8v)
 
 As always, check to make sure your particular breakout board has the pins in the
 right spots for this PCB! Not all breakouts of the same IMU have the same pins!
