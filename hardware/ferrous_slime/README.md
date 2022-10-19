@@ -10,7 +10,7 @@ with different IMU options.
 ## IMU Compatibility
 This board was designed to work with the following IMU breakouts, via solder
 jumpers that can reconfigure the board.
-- BNO08X (Aliexpress GY-BNO08X)
+- BNO08X (Aliexpress GY-BNO08X and Adafruit BNO08X)
 - MPU-6050 (Aliexpress GY-521)
 - MPU-9250/6500 (Aliexpress GY-9250 and MPU-92/65)
 - ICM20948 3.3v (Aliexpress GY-912 and Pimoroni PIM448)
