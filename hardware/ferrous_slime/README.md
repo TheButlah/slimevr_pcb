@@ -49,3 +49,8 @@ was a good article.
 
 ## Changelog
 A description of the changes in each revision can be found [here](CHANGELOG.md).
+
+## Credits
+The original v0.1.0 design was based on the schematics of the [esp-rs Rust board](https://github.com/esp-rs/esp-rust-board).
+Thanks to the esp-rs community for being so awesome!
+Also, thanks to the SlimeVR developers and especially @Eirenliel for making SlimeVR awesome and open source :)
