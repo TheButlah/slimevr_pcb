@@ -752,7 +752,7 @@
       (net 3 "+3V3") (pinfunction "A1") (pintype "passive") (tstamp 1499f79b-cddc-4c57-855c-00e44280edaa))
     (pad "2" smd rect (at 0.4 0) (size 0.5 0.7) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "GND") (pinfunction "A2") (pintype "passive") (tstamp 9f627ef3-cc95-4e6b-b8d6-8ee64219afaa))
-    (model "${SLIME_3D}/SOD882.step"
+    (model "${KIPRJMOD}/../libs/slimevr_pcb/3D/SOD882.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -90))
@@ -1572,7 +1572,7 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${SLIME_3D}/OS102011MA1QN1.step"
+    (model "${KIPRJMOD}/../libs/slimevr_pcb/3D/OS102011MA1QN1.step"
       (offset (xyz 1.905 0 3.81))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -1997,7 +1997,7 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${SLIME_3D}/USB4105-GF-A.step"
+    (model "${KIPRJMOD}/../libs/slimevr_pcb/3D/USB4105-GF-A.step"
       (offset (xyz 0 -1 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
