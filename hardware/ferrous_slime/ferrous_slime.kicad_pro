@@ -463,6 +463,8 @@
           "+BATT",
           "B_SENSE",
           "GND",
+          "Net-(D2-Pad1)",
+          "Net-(D6-Pad2)",
           "Net-(JP4-Pad2)",
           "Net-(L1-Pad1)",
           "VBUS"
