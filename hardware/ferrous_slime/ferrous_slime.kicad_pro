@@ -62,6 +62,7 @@
         "courtyards_overlap|59452075|32866225|965b89d7-f1ce-4a9c-b214-48f5cfe3d7db|19a3c8ee-f934-47e0-b87a-22035e97ad7e",
         "courtyards_overlap|62500075|61441225|43ac70b7-d5fa-429f-b792-6fc128e72cbc|965b89d7-f1ce-4a9c-b214-48f5cfe3d7db",
         "courtyards_overlap|66673673|59486643|965b89d7-f1ce-4a9c-b214-48f5cfe3d7db|43ac70b7-d5fa-429f-b792-6fc128e72cbc",
+        "items_not_allowed|75946000|41004000|89e1b29e-60ad-4be0-892f-1018ab5b7582|00000000-0000-0000-0000-000000000000",
         "silk_over_copper|55753000|30437462|467feba3-cbf8-4141-89bc-b9cc718e419e|1b542cb0-95ff-4329-885b-d3dc10982539",
         "silk_over_copper|55753000|30437462|467feba3-cbf8-4141-89bc-b9cc718e419e|bbf98dc7-5489-471f-ac7e-8e97a84023ca",
         "silk_over_copper|55753000|38173990|467feba3-cbf8-4141-89bc-b9cc718e419e|491aebce-6c94-467f-8cb1-729e234fe57a",
@@ -463,6 +464,8 @@
           "+BATT",
           "B_SENSE",
           "GND",
+          "Net-(D2-Pad1)",
+          "Net-(D6-Pad2)",
           "Net-(JP4-Pad2)",
           "Net-(L1-Pad1)",
           "VBUS"

@@ -23,3 +23,12 @@
 - Fixed footprint/symbols not referencing each other correctly for IMU.
 - Added silkscreen labels for IMU breakout pins
 - Connected TP4056 heatsink to GND
+
+## v0.4.0
+- Migrated to SRV05-04 for USB ESD, decreasing size and cost.
+- Completely redesigned the board layout. Its much more efficient now, there is
+  actually a large amount of unused space now.
+- Removed all vias-in-pads, which was why v0.3.0 had faulty usb connection.
+- Much better placement of capacitors, they now are near the pins they try to stabilize. 
+- Antennas now have some keepouts on either side for a bit more signal strength. 
+
