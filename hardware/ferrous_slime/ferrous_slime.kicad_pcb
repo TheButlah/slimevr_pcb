@@ -2085,6 +2085,11 @@
       (net 20 "Net-(JP1-Pad3)") (pinfunction "INT_GB/AD0_GM") (pintype "output") (tstamp 9f609ef7-1eb2-4a2a-847b-039a9d9c4a86))
     (pad "8" thru_hole circle (at -6.61846 6.339528 90) (size 1.651 1.651) (drill 0.889) (layers *.Cu *.Mask)
       (net 23 "Net-(JP3-Pad3)") (pinfunction "INT_GM") (pintype "output") (tstamp 6130f5ae-f90c-4cf6-ab96-79e7be24b906))
+    (model "${KIPRJMOD}/../libs/slimevr_pcb/3D/Adafruit_BNO085.step"
+      (offset (xyz 2.286 7.62 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 90))
+    )
   )
 
   (footprint "slimevr_pcb:oshw_logo" (layer "F.Cu")
