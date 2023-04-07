@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "icm42688")(type "KiCad")(uri "D:/Ryan/PCB/Projects/slimevr_pcb/hardware/libs/icm42688.kicad_sym")(options "")(descr ""))
+)
